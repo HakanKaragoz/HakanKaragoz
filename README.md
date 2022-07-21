@@ -27,23 +27,6 @@ Here are some ideas to get you started:
 
 
 <!--
-just trying
-### - Languages and Tools...
-
-<p align="center">
-For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges 
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
-
-
 <br>
 
 ### 🔨 Languages and Tools:
@@ -62,3 +45,20 @@ For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <br>
 -->
+<br>
+
+### 🔨 Languages and Tools:
+<a href="https://www.autodesk.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/HakanKaragoz/HakanKaragoz/main/github_readme_icons/AutocadIcon.ico" alt="pytorch" height="42px"/> </a> 
+
+<a href="" target="_blank"> <img align="left" src="https://github.com/HakanKaragoz/HakanKaragoz/blob/main/github_readme_icons/C-Cpp.png" alt="pytorch" height="42px"/> </a>
+
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img align="left" src="https://github.com/HakanKaragoz/HakanKaragoz/blob/main/github_readme_icons/Matlab_Logo.png" alt="pytorch" height="42px"/> </a>
+
+<a href="https://www.labcenter.com" target="_blank"> <img align="left" src="https://github.com/HakanKaragoz/HakanKaragoz/blob/main/github_readme_icons/Proteus_Design_Suite_Atom_Logo.png" alt="pytorch" height="42px"/> </a>
+
+<a href="https://www.arduino.cc" target="_blank"> <img align="left" src="https://github.com/HakanKaragoz/HakanKaragoz/blob/main/github_readme_icons/arduino.png" alt="pytorch" height="42px"/> </a>
+
+<a href="https://developer.android.com" target="_blank"> <img align="left" src="https://github.com/HakanKaragoz/HakanKaragoz/blob/main/github_readme_icons/androidStudio.png" alt="pytorch" height="42px"/> </a>
+
+
+<br>
