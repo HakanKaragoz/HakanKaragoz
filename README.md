@@ -17,7 +17,7 @@
 <br>
 <p img align="center">
 <a href="https://www.autodesk.com" target="_blank"> <img src="https://raw.githubusercontent.com/HakanKaragoz/HakanKaragoz/main/github_readme_icons/AutocadIcon.ico" alt="pytorch" height="50px"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank"> <img src="https://github.com/HakanKaragoz/HakanKaragoz/blob/main/github_readme_icons/C-Cpp.png" alt="pytorch" height="50px"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a> <img src="https://github.com/HakanKaragoz/HakanKaragoz/blob/main/github_readme_icons/C-Cpp.png" alt="pytorch" height="50px"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://github.com/HakanKaragoz/HakanKaragoz/blob/main/github_readme_icons/Matlab_Logo.png" alt="pytorch" height="50px"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.labcenter.com" target="_blank"> <img src="https://github.com/HakanKaragoz/HakanKaragoz/blob/main/github_readme_icons/Proteus_Design_Suite_Atom_Logo.png" alt="pytorch" height="50px"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.arduino.cc" target="_blank"> <img src="https://github.com/HakanKaragoz/HakanKaragoz/blob/main/github_readme_icons/arduino.png" alt="pytorch" height="50px"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
