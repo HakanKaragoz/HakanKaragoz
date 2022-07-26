@@ -24,3 +24,8 @@
 <a href="https://developer.android.com" target="_blank"> <img src="https://github.com/HakanKaragoz/HakanKaragoz/blob/main/github_readme_icons/androidStudioo.png" alt="pytorch" height="50px"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=hakankaragoz&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakankaragoz&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
